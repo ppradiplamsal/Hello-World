@@ -1,10 +1,11 @@
-Actually the line I wrote earlier was wrong. This is the right line.
+A sample Python code
 
-
-Hey guys, this is another edit from Pradip. Please check it thoroughly and let me know.
+This is another edit from Pradip.
 
 
 def username_pword_buttons():
     a=input("Username")
     b=input("Password")
     return a,b
+    
+print(username_pword_buttons())
