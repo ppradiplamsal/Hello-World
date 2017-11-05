@@ -4,8 +4,8 @@ This is another edit from Pradip.
 
 
 def username_pword_buttons():
-    a=input("Username")
-    b=input("Password")
+    a=input("Username: ")
+    b=input("Password: ")
     return a,b
     
 print(username_pword_buttons())
